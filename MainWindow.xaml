@@ -1,7 +1,7 @@
 ﻿<Window x:Class="EveLayoutManager.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="EVE Layout Manager" Height="200" Width="300">
+        Title="Eve window manager" Height="200" Width="300">
     <Grid>
         <Button x:Name="SaveLayoutButton"
                 Content="Save layout"
