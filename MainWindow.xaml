@@ -4,7 +4,7 @@
         Title="EVE Layout Manager" Height="200" Width="300">
     <Grid>
         <Button x:Name="SaveLayoutButton"
-                Content="Tallenna asettelu"
+                Content="Save layout"
                 HorizontalAlignment="Right"
                 VerticalAlignment="Top"
                 Margin="10"

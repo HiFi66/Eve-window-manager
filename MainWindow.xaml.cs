@@ -27,7 +27,7 @@ namespace EveLayoutManager
         private void SaveLayoutButton_Click(object sender, RoutedEventArgs e)
         {
             _windowManager.SaveLayouts();
-            MessageBox.Show("Asettelut tallennettu.", "Tallennus", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show("Layouts saved.", "Save", MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }
 }
